@@ -22,5 +22,5 @@ And here are some interesting grphs:
     />
   </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anower8948&theme=vue" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/anower8948/output/snake/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
 </div>
